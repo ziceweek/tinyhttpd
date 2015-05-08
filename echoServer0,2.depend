@@ -1,0 +1,189 @@
+# depslib dependency file v1.0
+1430730233 source:/home/zice/workplace/csDownload/realClient/echoServer0,2/main.cpp
+	"HTTP.h"
+	<string>
+	<iostream>
+	<Socket.h>
+	<HTTP.h>
+	<unistd.h>
+	<HttpResponse.h>
+	<ProcessPoll.h>
+
+1430145361 /home/zice/workplace/csDownload/realClient/echoServer0,2/include/HTTP.h
+	<string>
+	<map>
+
+1430060051 source:/home/zice/workplace/csDownload/realClient/echoServer0,2/src/HTTP.cpp
+	"HTTP.h"
+	<string>
+	<iostream>
+
+1430722492 /home/zice/workplace/csDownload/realClient/echoServer0,2/include/Socket.h
+	<sys/socket.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<string>
+	<string.h>
+	<iostream>
+	<errno.h>
+
+1430730172 source:/home/zice/workplace/csDownload/realClient/echoServer0,2/src/Socket.cpp
+	"Socket.h"
+	<stdlib.h>
+
+1430287949 source:/home/zice/workplace/csDownload/realClient/echoServer0,2/src/HttpResponse.cpp
+	"HttpResponse.h"
+
+1430297232 /home/zice/workplace/csDownload/realClient/echoServer0,2/include/HttpResponse.h
+	<string>
+	<map>
+	<stdio.h>
+
+1430661972 /home/zice/workplace/csDownload/realClient/echoServer0,2/include/ProcessPoll.h
+	<signal.h>
+	<sys/types.h>
+	<sys/ipc.h>
+	<sys/msg.h>
+	<stdlib.h>
+	<iostream>
+	<unistd.h>
+	<string.h>
+	<Socket.h>
+	<iostream>
+
+1430730048 source:/home/zice/workplace/csDownload/realClient/echoServer0,2/src/ProcessPoll.cpp
+	"ProcessPoll.h"
+
+1430730574 source:/home/zice/workplace/csDownload/realClient/echoServer0.3 /main.cpp
+	"HTTP.h"
+	<string>
+	<iostream>
+	<Socket.h>
+	<HTTP.h>
+	<unistd.h>
+	<HttpResponse.h>
+	<ProcessPoll.h>
+
+1430145361 /home/zice/workplace/csDownload/realClient/echoServer0.3 /include/HTTP.h
+	<string>
+	<map>
+
+1430832531 /home/zice/workplace/csDownload/realClient/echoServer0.3 /include/Socket.h
+	<sys/socket.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<string>
+	<string.h>
+	<iostream>
+	<errno.h>
+
+1430297232 /home/zice/workplace/csDownload/realClient/echoServer0.3 /include/HttpResponse.h
+	<string>
+	<map>
+	<stdio.h>
+
+1430832012 /home/zice/workplace/csDownload/realClient/echoServer0.3 /include/ProcessPoll.h
+	<signal.h>
+	<sys/types.h>
+	<sys/ipc.h>
+	<sys/msg.h>
+	<stdlib.h>
+	<iostream>
+	<unistd.h>
+	<string.h>
+	<Socket.h>
+	<iostream>
+
+1430060051 source:/home/zice/workplace/csDownload/realClient/echoServer0.3 /src/HTTP.cpp
+	"HTTP.h"
+	<string>
+	<iostream>
+
+1430287949 source:/home/zice/workplace/csDownload/realClient/echoServer0.3 /src/HttpResponse.cpp
+	"HttpResponse.h"
+
+1430832704 source:/home/zice/workplace/csDownload/realClient/echoServer0.3 /src/ProcessPoll.cpp
+	"ProcessPoll.h"
+
+1430730172 source:/home/zice/workplace/csDownload/realClient/echoServer0.3 /src/Socket.cpp
+	"Socket.h"
+	<stdlib.h>
+
+1431009698 source:/home/zice/workplace/csDownload/realClient/echoServer0.4/src/HTTP.cpp
+	"HTTP.h"
+	<string>
+	<iostream>
+
+1430923147 /home/zice/workplace/csDownload/realClient/echoServer0.4/include/HTTP.h
+	<string>
+	<map>
+
+1431008403 source:/home/zice/workplace/csDownload/realClient/echoServer0.4/src/HttpResponse.cpp
+	"HttpResponse.h"
+
+1431007634 /home/zice/workplace/csDownload/realClient/echoServer0.4/include/HttpResponse.h
+	<string>
+	<map>
+	<stdio.h>
+	<iostream>
+
+1431009757 source:/home/zice/workplace/csDownload/realClient/echoServer0.4/src/ProcessPoll.cpp
+	"ProcessPoll.h"
+
+1430998504 /home/zice/workplace/csDownload/realClient/echoServer0.4/include/ProcessPoll.h
+	<signal.h>
+	<sys/types.h>
+	<sys/ipc.h>
+	<sys/msg.h>
+	<stdlib.h>
+	<iostream>
+	<unistd.h>
+	<string.h>
+	<Socket.h>
+	<iostream>
+	"HTTP.h"
+	"HttpResponse.h"
+	"CGI.h"
+
+1430899217 /home/zice/workplace/csDownload/realClient/echoServer0.4/include/Socket.h
+	<sys/socket.h>
+	<arpa/inet.h>
+	<unistd.h>
+	<string>
+	<string.h>
+	<iostream>
+	<errno.h>
+
+1430730172 source:/home/zice/workplace/csDownload/realClient/echoServer0.4/src/Socket.cpp
+	"Socket.h"
+	<stdlib.h>
+
+1431001573 source:/home/zice/workplace/csDownload/realClient/echoServer0.4/main.cpp
+	"HTTP.h"
+	<string>
+	<iostream>
+	<Socket.h>
+	<HTTP.h>
+	<unistd.h>
+	<HttpResponse.h>
+	<ProcessPoll.h>
+
+1431010380 source:/home/zice/workplace/csDownload/realClient/echoServer0.4/src/CGI.cpp
+	"CGI.h"
+	<stdio.h>
+	<string.h>
+
+1431009062 /home/zice/workplace/csDownload/realClient/echoServer0.4/include/CGI.h
+	<string>
+	<sys/stat.h>
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<stdio.h>
+	<wait.h>
+	"HTTP.h"
+	"HttpResponse.h"
+	"CGI.h"
+
